@@ -15,4 +15,8 @@ public class Worker {
 		
 		return 1;
 	}
+	
+	public long hoge() {
+		return System.currentTimeMillis();
+	}
 }

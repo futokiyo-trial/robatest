@@ -40,10 +40,11 @@ public class WorkerJunit4Test {
 	@Test
 	public void testGetOne() {
 		mockStatic(System.class);
+		when(System.currentTimeMillis()).thenReturn(3L);
 		
 		Worker worker = new Worker();
 		assertEquals("1", 1, worker.getOne());
-		
+		assertEquals("3L", 3L, worker.hoge());
 	}
 
 }
