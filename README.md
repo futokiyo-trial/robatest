@@ -11,6 +11,28 @@ JUnit5/Mockito/weld-junit 参考文献 リンク集
 
 [Mockito 3 + JUnit 5 で基本的なモック化とテストをするサンプルコード](https://qiita.com/niwasawa/items/f8798c981b4d08ecfa55)
 
+[PowerMockをサクっと使ってみよう。サンプル集](http://java-study.blog.jp/archives/1072284850.html)
+
+[mockitoを使ってStaticなSystem.currentTimeMillis()をMock化する方法](http://kubo-shogun.com/archives/15439646.html)
+
+[PowerMockでstaticメソッドをモック化する](https://qiita.com/kkmr94/items/383e8f73f9650598c413)
+
+[powermock-mockito2-2.0.2を使ってみる](https://qiita.com/mima_ita/items/3574a03b3379fb5f3c3c)
+
+[[Mockito] 3.2.4 → 3.3.xにアップデートしたら（イケテナイところが）エラーになった件](https://qiita.com/kazuki43zoo/items/8762927ed182878eb58c)
+
+[Javaユニットテストの作り方（JUnit & Mockito & PowerMock）](https://qiita.com/vicboss1002/items/4d0fa5c290d422db194d)
+
+[Mockito+PowerMockチートシート](https://qiita.com/y-imai/items/0e002e16e38ba97e11f6)
+
+[JUnit5とMockitoで単体テスト](https://qiita.com/gitcho/items/5ce478ec8e29bbddc152)
+
+[JUnit 4からJUnit 5に移行する：重要な違いと利点](https://blogs.oracle.com/otnjp/migrating-from-junit-4-to-junit-5-important-differences-and-benefits-ja)
+
+[Simplifying Junit, Mockito And PowerMock](https://aggarwal-rohan17.medium.com/simplifying-junit-mockito-and-powermock-d1392059ce87)
+
+[Introduction to PowerMock](https://www.baeldung.com/intro-to-powermock)
+
 [weld-meets-junit5](https://weld.cdi-spec.org/news/2017/12/19/weld-meets-junit5/)
 
 [weld-junit junit5 README](https://github.com/weld/weld-junit/blob/master/junit5/README.md)
